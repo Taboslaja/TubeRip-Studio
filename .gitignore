@@ -1,0 +1,30 @@
+# Dependencies and generated output
+node_modules/
+*.log
+npm-debug.log*
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Downloaded media and runtime state
+downloads/*
+!downloads/.gitkeep
+.ffmpeg-release
+
+# Locally installed tools/build artifacts
+*.exe
+*.dll
+*.pyd
+*.spec
+build/
+.DS_Store
+Thumbs.db
+.npm-cache/

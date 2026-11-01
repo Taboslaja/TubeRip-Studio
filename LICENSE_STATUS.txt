@@ -1,0 +1,3 @@
+# Public repository license status
+
+This project does not currently include a license. If you intend to allow others to reuse or contribute code under explicit terms, select an appropriate license and add its full text as `LICENSE` before publishing.

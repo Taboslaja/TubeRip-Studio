@@ -1,0 +1,19 @@
+GITHUB-READY PROJECT INTRODUCTION
+
+Short description (GitHub repository About field)
+
+TubeRip Studio is a local, multilingual YouTube media downloader with MP3/video options, playlist and batch downloads, a built-in media library, and an optional Windows FFmpeg updater.
+
+Project introduction (for the GitHub README or project page)
+
+TubeRip Studio provides a browser-based interface for downloading and organizing media on your own computer. Its local Python server connects the interface to yt-dlp and FFmpeg, while the built-in library helps you browse and play files saved to your chosen output folder.
+
+The application supports audio downloads with selectable MP3 bitrates, video format and quality selection, playlists, selected playlist entries, and batches of links. The interface is available in Hungarian, English, German, French, Spanish, Russian, Japanese, and Simplified Chinese, with several visual themes. On Windows, the app can check whether its FFmpeg components need an update and ask before downloading them to the application folder.
+
+To get started, install Python 3.10 or newer, install the dependency with `py -m pip install -r requirements.txt`, and run `Inditas.bat`. The web interface opens locally at `http://localhost:3000`. A Node.js toolchain is only needed if you want to rebuild the frontend.
+
+TubeRip Studio is intended for personal, authorized use. Users are responsible for respecting copyright, applicable law, and the terms of the services they access. The repository contains source code and the built web interface; third-party media tools are installed separately. No project license has been selected yet.
+
+About this file
+
+The short description is ready to paste into GitHub's repository About field. The project introduction can be used as a starting point for the public project description.

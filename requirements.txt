@@ -1,0 +1,2 @@
+# Python runtime dependency. Keep yt-dlp current because YouTube changes frequently.
+yt-dlp
